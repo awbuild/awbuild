@@ -1,8 +1,7 @@
-## Hi there! 
 # About Me
-I'm Ashley, learning to code, bringing ideas to life and improving with every challenge.
+I'm Ashley, learning to code and improving my practice with every challenge.
 
-## Currently Learning
+## Currently Learning how to use:
 
 - **HTML & CSS** – layouts, responsive design and styling techniques  
 - **JavaScript** – fundamentals, DOM manipulation and ES6+ features  
